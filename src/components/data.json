@@ -1,0 +1,34 @@
+{
+    "arrays": [
+        {
+            "id": 1,
+            "numbers": [
+                "0123456789"
+            ]
+        },
+        {
+            "id": 2,
+            "uppercase": [
+                "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            ]
+        },
+        {
+            "id": 3,
+            "lowercase": [
+                "abcdefghijklmnopqrstuvwxyz"
+            ]
+        },
+        {
+            "id": 4,
+            "upperLowercase": [
+                "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+            ]
+        },
+        {
+            "id": 5,
+            "mixNumLetters": [
+                "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+            ]
+        }
+    ]
+}
